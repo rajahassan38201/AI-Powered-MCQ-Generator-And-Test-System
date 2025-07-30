@@ -2,14 +2,14 @@
 
 [MCQs Generator.webm](https://github.com/user-attachments/assets/9a3e5ec4-02c6-41d1-94b7-6ead09054f33)
 
-#📚 AI-Powered MCQ Generator
-#Project Description
+# 📚 AI-Powered MCQ Generator
+# Project Description
 This project is an AI-powered Multiple-Choice Question (MCQ) Generator built using Streamlit, Langchain, and Google Gemini API. It allows users to upload a document (TXT, PDF, or DOCX), specify the number of MCQs to generate from its content, and then take a test based on these generated questions. After completing the test, users receive a detailed summary of their performance and all the correct answers for review.
 
-#Features
+# Features
 Document Upload: Supports uploading .txt, .pdf, and .docx files.
 
-#AI-Powered MCQ Generation: Generates multiple-choice questions directly from the uploaded document's content using Google Gemini via Langchain.
+# AI-Powered MCQ Generation: Generates multiple-choice questions directly from the uploaded document's content using Google Gemini via Langchain.
 
 Customizable MCQ Count: Users can specify the desired number of MCQs (1-20).
 
@@ -23,7 +23,7 @@ Correct Answers Reveal: Displays all correct answers for review after the test.
 
 Professional GUI: Intuitive and clean user interface built with Streamlit.
 
-#Technologies Used
+# Technologies Used
 Python: The core programming language.
 
 Streamlit: For building the interactive web application GUI.
@@ -36,7 +36,7 @@ PyPDFLoader: For extracting text from PDF documents.
 
 python-docx: (Optional) For extracting text from DOCX documents.
 
-#Setup and Installation
+# Setup and Installation
 To get this project up and running on your local machine, follow these steps:
 
 Clone the Repository (if applicable):
